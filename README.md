@@ -1,6 +1,23 @@
-# FPL Guru (`fpl-guru`)
+<div align="center">
 
-**Your personal AI Fantasy Premier League coach — built for real FPL managers, no coding required.**
+<h1>⚽ FPL Guru</h1>
+
+<p>
+  <a href="https://github.com/tawhid37/fpl-guru/stargazers"><img src="https://img.shields.io/github/stars/tawhid37/fpl-guru?style=flat&label=stars" alt="GitHub Stars" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="MIT License" /></a>
+  <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python 3.8+" />
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue" alt="Platform" />
+</p>
+
+<p>
+  <a href="https://github.com/tawhid37"><img src="https://img.shields.io/badge/follow-%40tawhid37-181717?logo=github" alt="GitHub @tawhid37" /></a>
+  <a href="https://www.linkedin.com/in/tawhid37/"><img src="https://img.shields.io/badge/connect-LinkedIn-0A66C2?logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/AI_agents-Antigravity%20%7C%20Claude%20%7C%20Cursor%20%7C%20Codex-6f42c1" alt="Supported AI Agents" />
+</p>
+
+<p><strong>Your personal AI Fantasy Premier League coach — built for real FPL managers, no coding required.</strong></p>
+
+</div>
 
 Paste your FPL team link and ask anything in plain **English, Bangla, or Banglish**. FPL Guru checks live Premier League data before every answer so you get real numbers, real injury news, and smarter moves — never guesswork.
 
